@@ -31,7 +31,7 @@ def intersectionOverUnion(positiveRec, detectedRec):
 	return iou
 
 def detectEars(img):
-	detectionList = cascadeFace.detectMultiScale(img, 1.05, 5)
+	detectionList = cascadeFace.detectMultiScale(img, 1, 5)
 
 	#print(detectionList)
 	
