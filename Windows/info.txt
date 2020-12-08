@@ -1,5 +1,5 @@
 rawdata/pos-0.bmp 1 61 73 172 276
-rawdata/pos-1.bmp 5 58 76 178 266
+rawdata/pos-1.bmp 1 58 76 178 266
 rawdata/pos-10.bmp 1 42 71 222 290
 rawdata/pos-100.bmp 1 50 38 193 343
 rawdata/pos-101.bmp 1 39 53 212 324
@@ -7,7 +7,7 @@ rawdata/pos-102.bmp 1 47 43 198 337
 rawdata/pos-103.bmp 1 38 45 216 336
 rawdata/pos-104.bmp 1 28 50 235 330
 rawdata/pos-105.bmp 1 30 24 239 380
-rawdata/pos-106.bmp 14 55 74 198 278
+rawdata/pos-106.bmp 1 55 74 198 278
 rawdata/pos-107.bmp 1 47 45 175 318
 rawdata/pos-108.bmp 1 54 64 192 291
 rawdata/pos-109.bmp 1 71 58 170 309
@@ -17,7 +17,7 @@ rawdata/pos-111.bmp 1 58 62 170 295
 rawdata/pos-112.bmp 1 41 70 219 290
 rawdata/pos-113.bmp 1 34 78 236 283
 rawdata/pos-114.bmp 1 39 43 221 338
-rawdata/pos-115.bmp 10 37 52 221 310
+rawdata/pos-115.bmp 1 37 52 221 310
 rawdata/pos-116.bmp 1 56 54 176 321
 rawdata/pos-117.bmp 1 42 67 218 296
 rawdata/pos-118.bmp 1 67 58 165 307
@@ -698,3 +698,24 @@ rawdata/pos-96.bmp 1 17 89 264 249
 rawdata/pos-97.bmp 1 25 37 253 344
 rawdata/pos-98.bmp 1 24 32 236 343
 rawdata/pos-99.bmp 1 32 64 229 296
+rawdata/pos-700.bmp 1 44 159 43 67
+rawdata/pos-701.bmp 1 18 61 23 37
+rawdata/pos-702.bmp 1 135 101 46 59
+rawdata/pos-703.bmp 1 120 96 46 77
+rawdata/pos-704.bmp 1 37 36 15 33
+rawdata/pos-705.bmp 1 203 94 49 32
+rawdata/pos-706.bmp 1 85 153 48 60
+rawdata/pos-707.bmp 2 9 87 55 131 368 87 49 126
+rawdata/pos-708.bmp 2 29 57 28 45 153 53 14 43
+rawdata/pos-709.bmp 1 54 35 17 24
+rawdata/pos-710.bmp 2 12 64 19 32 95 24 22 36
+rawdata/pos-711.bmp 2 96 74 18 42 200 72 16 46
+rawdata/pos-712.bmp 4 26 42 11 18 76 43 9 22 95 53 11 15 140 41 8 22
+rawdata/pos-713.bmp 1 237 171 64 94
+rawdata/pos-714.bmp 1 324 127 20 52
+rawdata/pos-715.bmp 1 39 38 21 19
+rawdata/pos-716.bmp 2 98 149 31 48 242 148 23 54
+rawdata/pos-717.bmp 1 73 32 19 18
+rawdata/pos-718.bmp 1 315 36 29 52
+rawdata/pos-719.bmp 2 19 49 15 27 88 48 14 30
+rawdata/pos-720.bmp 1 152 54 36 58

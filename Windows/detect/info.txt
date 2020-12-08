@@ -1,0 +1,87 @@
+testPic/test-0.png 1 78 131 70 69
+testPic/test-1.png 1 316 95 60 76
+testPic/test-10.png 1 132 107 38 74
+testPic/test-11.png 1 135 107 56 93
+testPic/test-12.png 1 61 173 92 75
+testPic/test-13.png 1 280 84 47 39
+testPic/test-14.png 1 139 82 32 58
+testPic/test-15.png 1 78 119 61 56
+testPic/test-16.png 2 147 100 36 49 337 107 20 35
+testPic/test-17.png 1 138 122 48 83
+testPic/test-18.png 1 78 150 71 81
+testPic/test-19.png 2 157 102 21 40 304 148 55 90
+testPic/test-2.png 2 184 127 26 71 324 95 37 81
+testPic/test-20.png 1 358 94 87 121
+testPic/test-21.png 2 33 162 59 98 363 156 81 101
+testPic/test-22.png 1 276 75 37 45
+testPic/test-23.png 1 333 87 45 69
+testPic/test-24.png 2 185 189 21 54 377 123 36 102
+testPic/test-25.png 1 275 90 39 64
+testPic/test-26.png 1 236 150 66 61
+testPic/test-27.png 1 254 136 39 63
+testPic/test-28.png 1 50 142 84 74
+testPic/test-29.png 1 29 163 67 91
+testPic/test-3.png 1 308 168 50 100
+testPic/test-30.png 1 357 175 41 65
+testPic/test-31.png 2 55 122 65 106 379 142 48 91
+testPic/test-32.png 1 42 107 74 103
+testPic/test-33.png 2 138 94 22 35 307 84 24 45
+testPic/test-34.png 1 364 207 62 110
+testPic/test-35.png 1 298 667 197 217
+testPic/test-36.png 1 387 274 81 144
+testPic/test-37.jpg 1 59 191 51 63
+testPic/test-38.jpg 1 42 190 74 96
+testPic/test-39.jpg 1 34 205 46 110
+testPic/test-4.png 1 218 89 46 70
+testPic/test-40.jpg 2 60 199 34 111 185 192 15 114
+testPic/test-41.jpg 2 102 178 28 129 246 159 22 137
+testPic/test-42.jpg 1 125 184 40 74
+testPic/test-43.jpg 1 263 174 53 78
+testPic/test-44.jpg 1 266 202 64 78
+testPic/test-45.jpg 1 238 94 66 126
+testPic/test-46.jpg 1 63 168 47 61
+testPic/test-47.jpg 1 66 167 46 60
+testPic/test-48.jpg 2 64 222 5 80 258 232 45 112
+testPic/test-49.jpg 2 0 174 15 69 224 177 54 77
+testPic/test-5.png 2 76 114 57 61 358 109 46 64
+testPic/test-50.jpg 1 200 171 47 76
+testPic/test-51.jpg 1 72 142 50 69
+testPic/test-52.jpg 1 76 144 48 67
+testPic/test-53.jpg 1 233 232 48 98
+testPic/test-54.jpg 1 15 237 74 109
+testPic/test-55.jpg 1 145 222 40 77
+testPic/test-56.jpg 1 2 168 87 104
+testPic/test-57.jpg 1 224 147 42 69
+testPic/test-58.jpg 1 220 152 46 67
+testPic/test-59.jpg 1 63 186 76 87
+testPic/test-6.png 1 341 117 46 117
+testPic/test-60.jpg 2 15 89 52 136 312 83 40 127
+testPic/test-61.jpg 2 29 228 45 80 264 254 51 73
+testPic/test-62.jpg 1 127 142 53 63
+testPic/test-63.jpg 1 145 211 31 33
+testPic/test-64.jpg 2 32 135 27 101 156 94 23 105
+testPic/test-65.jpg 2 54 132 46 113 278 122 29 115
+testPic/test-66.jpg 1 265 4 71 143
+testPic/test-67.jpg 2 112 214 25 109 234 208 22 120
+testPic/test-68.jpg 2 93 173 33 139 259 255 52 132
+testPic/test-69.jpg 1 183 106 21 60
+testPic/test-7.png 1 47 126 61 68
+testPic/test-70.jpg 1 184 110 49 65
+testPic/test-71.jpg 1 160 127 51 75
+testPic/test-72.jpg 2 38 258 55 114 276 252 41 123
+testPic/test-73.jpg 2 30 193 51 100 237 162 23 105
+testPic/test-74.jpg 2 88 110 32 52 207 98 24 57
+testPic/test-75.jpg 1 29 206 62 116
+testPic/test-76.jpg 1 96 162 45 102
+testPic/test-77.jpg 1 228 208 46 74
+testPic/test-78.jpg 1 287 220 43 117
+testPic/test-79.jpg 1 221 178 50 95
+testPic/test-8.png 1 181 151 49 82
+testPic/test-80.jpg 1 75 159 46 89
+testPic/test-81.jpg 1 58 179 53 97
+testPic/test-82.jpg 2 53 194 55 60 241 156 29 71
+testPic/test-83.jpg 1 104 157 34 92
+testPic/test-84.jpg 1 26 192 68 100
+testPic/test-85.jpg 2 27 221 54 132 290 226 39 139
+testPic/test-86.jpg 2 76 206 43 99 284 200 30 101
+testPic/test-9.png 2 79 126 43 95 356 154 57 90
