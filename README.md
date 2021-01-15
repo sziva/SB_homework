@@ -4,4 +4,6 @@ Ear Database: AMI Ear Database: https://ctim.ulpgc.es/research_works/ami_ear_dat
 
 Negative pictures: https://github.com/JoakimSoderberg/haarcascade-negatives
 
-Detector is in detect folder
+To run detector:
+ cd detect
+ detector.py
