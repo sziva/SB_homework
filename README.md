@@ -7,5 +7,4 @@ Negative pictures: https://github.com/JoakimSoderberg/haarcascade-negatives
 To run detector:
 
  cd detect
-
-detector.py
+ detector.py
